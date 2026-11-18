@@ -1,0 +1,1492 @@
+[
+  {
+    "_id": "PED001",
+    "cliente_id": "C026",
+    "fecha": {
+      "$date": "2026-08-31T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P007",
+        "cantidad": 3,
+        "precio_unitario": 18000
+      },
+      {
+        "producto_id": "P018",
+        "cantidad": 3,
+        "precio_unitario": 89000
+      },
+      {
+        "producto_id": "P005",
+        "cantidad": 2,
+        "precio_unitario": 32000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 1,
+        "precio_unitario": 58000
+      }
+    ],
+    "total": 443000
+  },
+  {
+    "_id": "PED002",
+    "cliente_id": "C012",
+    "fecha": {
+      "$date": "2026-08-09T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P004",
+        "cantidad": 3,
+        "precio_unitario": 48000
+      }
+    ],
+    "total": 144000
+  },
+  {
+    "_id": "PED003",
+    "cliente_id": "C024",
+    "fecha": {
+      "$date": "2026-07-26T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P028",
+        "cantidad": 3,
+        "precio_unitario": 46000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 3,
+        "precio_unitario": 58000
+      },
+      {
+        "producto_id": "P002",
+        "cantidad": 1,
+        "precio_unitario": 72000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 1,
+        "precio_unitario": 110000
+      }
+    ],
+    "total": 494000
+  },
+  {
+    "_id": "PED004",
+    "cliente_id": "C006",
+    "fecha": {
+      "$date": "2026-08-05T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P007",
+        "cantidad": 2,
+        "precio_unitario": 18000
+      },
+      {
+        "producto_id": "P018",
+        "cantidad": 1,
+        "precio_unitario": 89000
+      }
+    ],
+    "total": 125000
+  },
+  {
+    "_id": "PED005",
+    "cliente_id": "C004",
+    "fecha": {
+      "$date": "2026-10-09T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P028",
+        "cantidad": 1,
+        "precio_unitario": 46000
+      },
+      {
+        "producto_id": "P030",
+        "cantidad": 2,
+        "precio_unitario": 95000
+      }
+    ],
+    "total": 236000
+  },
+  {
+    "_id": "PED006",
+    "cliente_id": "C014",
+    "fecha": {
+      "$date": "2026-03-27T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P030",
+        "cantidad": 1,
+        "precio_unitario": 95000
+      }
+    ],
+    "total": 95000
+  },
+  {
+    "_id": "PED007",
+    "cliente_id": "C001",
+    "fecha": {
+      "$date": "2026-07-14T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P028",
+        "cantidad": 1,
+        "precio_unitario": 46000
+      },
+      {
+        "producto_id": "P013",
+        "cantidad": 1,
+        "precio_unitario": 35000
+      }
+    ],
+    "total": 81000
+  },
+  {
+    "_id": "PED008",
+    "cliente_id": "C007",
+    "fecha": {
+      "$date": "2026-03-21T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P010",
+        "cantidad": 3,
+        "precio_unitario": 9000
+      },
+      {
+        "producto_id": "P014",
+        "cantidad": 3,
+        "precio_unitario": 19000
+      },
+      {
+        "producto_id": "P023",
+        "cantidad": 3,
+        "precio_unitario": 31000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 2,
+        "precio_unitario": 58000
+      }
+    ],
+    "total": 293000
+  },
+  {
+    "_id": "PED009",
+    "cliente_id": "C002",
+    "fecha": {
+      "$date": "2026-10-05T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P019",
+        "cantidad": 3,
+        "precio_unitario": 145000
+      }
+    ],
+    "total": 435000
+  },
+  {
+    "_id": "PED010",
+    "cliente_id": "C017",
+    "fecha": {
+      "$date": "2026-09-02T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P002",
+        "cantidad": 3,
+        "precio_unitario": 72000
+      }
+    ],
+    "total": 216000
+  },
+  {
+    "_id": "PED011",
+    "cliente_id": "C003",
+    "fecha": {
+      "$date": "2026-04-06T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P017",
+        "cantidad": 1,
+        "precio_unitario": 65000
+      }
+    ],
+    "total": 65000
+  },
+  {
+    "_id": "PED012",
+    "cliente_id": "C020",
+    "fecha": {
+      "$date": "2026-10-24T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P013",
+        "cantidad": 3,
+        "precio_unitario": 35000
+      },
+      {
+        "producto_id": "P004",
+        "cantidad": 1,
+        "precio_unitario": 48000
+      }
+    ],
+    "total": 153000
+  },
+  {
+    "_id": "PED013",
+    "cliente_id": "C008",
+    "fecha": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P019",
+        "cantidad": 1,
+        "precio_unitario": 145000
+      },
+      {
+        "producto_id": "P017",
+        "cantidad": 3,
+        "precio_unitario": 65000
+      },
+      {
+        "producto_id": "P011",
+        "cantidad": 3,
+        "precio_unitario": 14000
+      }
+    ],
+    "total": 602000
+  },
+  {
+    "_id": "PED014",
+    "cliente_id": "C030",
+    "fecha": {
+      "$date": "2026-06-11T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P021",
+        "cantidad": 2,
+        "precio_unitario": 24000
+      }
+    ],
+    "total": 268000
+  },
+  {
+    "_id": "PED015",
+    "cliente_id": "C030",
+    "fecha": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P020",
+        "cantidad": 3,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P019",
+        "cantidad": 1,
+        "precio_unitario": 145000
+      },
+      {
+        "producto_id": "P004",
+        "cantidad": 3,
+        "precio_unitario": 48000
+      },
+      {
+        "producto_id": "P003",
+        "cantidad": 2,
+        "precio_unitario": 54000
+      }
+    ],
+    "total": 691000
+  },
+  {
+    "_id": "PED016",
+    "cliente_id": "C023",
+    "fecha": {
+      "$date": "2026-10-06T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P012",
+        "cantidad": 1,
+        "precio_unitario": 120000
+      },
+      {
+        "producto_id": "P010",
+        "cantidad": 2,
+        "precio_unitario": 9000
+      }
+    ],
+    "total": 138000
+  },
+  {
+    "_id": "PED017",
+    "cliente_id": "C024",
+    "fecha": {
+      "$date": "2026-02-24T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P030",
+        "cantidad": 1,
+        "precio_unitario": 95000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P004",
+        "cantidad": 1,
+        "precio_unitario": 48000
+      }
+    ],
+    "total": 363000
+  },
+  {
+    "_id": "PED018",
+    "cliente_id": "C017",
+    "fecha": {
+      "$date": "2026-05-16T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P010",
+        "cantidad": 3,
+        "precio_unitario": 9000
+      },
+      {
+        "producto_id": "P020",
+        "cantidad": 2,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P007",
+        "cantidad": 1,
+        "precio_unitario": 18000
+      }
+    ],
+    "total": 241000
+  },
+  {
+    "_id": "PED019",
+    "cliente_id": "C027",
+    "fecha": {
+      "$date": "2026-08-05T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P003",
+        "cantidad": 3,
+        "precio_unitario": 54000
+      }
+    ],
+    "total": 162000
+  },
+  {
+    "_id": "PED020",
+    "cliente_id": "C006",
+    "fecha": {
+      "$date": "2026-05-15T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P011",
+        "cantidad": 1,
+        "precio_unitario": 14000
+      }
+    ],
+    "total": 14000
+  },
+  {
+    "_id": "PED021",
+    "cliente_id": "C019",
+    "fecha": {
+      "$date": "2026-07-09T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P018",
+        "cantidad": 3,
+        "precio_unitario": 89000
+      },
+      {
+        "producto_id": "P001",
+        "cantidad": 1,
+        "precio_unitario": 85000
+      },
+      {
+        "producto_id": "P004",
+        "cantidad": 3,
+        "precio_unitario": 48000
+      },
+      {
+        "producto_id": "P003",
+        "cantidad": 1,
+        "precio_unitario": 54000
+      }
+    ],
+    "total": 550000
+  },
+  {
+    "_id": "PED022",
+    "cliente_id": "C022",
+    "fecha": {
+      "$date": "2026-05-08T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P005",
+        "cantidad": 1,
+        "precio_unitario": 32000
+      },
+      {
+        "producto_id": "P002",
+        "cantidad": 2,
+        "precio_unitario": 72000
+      },
+      {
+        "producto_id": "P010",
+        "cantidad": 1,
+        "precio_unitario": 9000
+      },
+      {
+        "producto_id": "P012",
+        "cantidad": 3,
+        "precio_unitario": 120000
+      }
+    ],
+    "total": 545000
+  },
+  {
+    "_id": "PED023",
+    "cliente_id": "C006",
+    "fecha": {
+      "$date": "2026-01-13T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P020",
+        "cantidad": 1,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 1,
+        "precio_unitario": 58000
+      },
+      {
+        "producto_id": "P005",
+        "cantidad": 1,
+        "precio_unitario": 32000
+      },
+      {
+        "producto_id": "P030",
+        "cantidad": 2,
+        "precio_unitario": 95000
+      }
+    ],
+    "total": 378000
+  },
+  {
+    "_id": "PED024",
+    "cliente_id": "C013",
+    "fecha": {
+      "$date": "2026-02-25T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P026",
+        "cantidad": 1,
+        "precio_unitario": 27000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P028",
+        "cantidad": 1,
+        "precio_unitario": 46000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 3,
+        "precio_unitario": 58000
+      }
+    ],
+    "total": 467000
+  },
+  {
+    "_id": "PED025",
+    "cliente_id": "C027",
+    "fecha": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P007",
+        "cantidad": 2,
+        "precio_unitario": 18000
+      },
+      {
+        "producto_id": "P027",
+        "cantidad": 2,
+        "precio_unitario": 52000
+      }
+    ],
+    "total": 140000
+  },
+  {
+    "_id": "PED026",
+    "cliente_id": "C011",
+    "fecha": {
+      "$date": "2026-07-24T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P022",
+        "cantidad": 1,
+        "precio_unitario": 110000
+      }
+    ],
+    "total": 110000
+  },
+  {
+    "_id": "PED027",
+    "cliente_id": "C001",
+    "fecha": {
+      "$date": "2026-06-19T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P012",
+        "cantidad": 2,
+        "precio_unitario": 120000
+      },
+      {
+        "producto_id": "P021",
+        "cantidad": 3,
+        "precio_unitario": 24000
+      },
+      {
+        "producto_id": "P017",
+        "cantidad": 3,
+        "precio_unitario": 65000
+      }
+    ],
+    "total": 507000
+  },
+  {
+    "_id": "PED028",
+    "cliente_id": "C014",
+    "fecha": {
+      "$date": "2026-11-02T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P019",
+        "cantidad": 1,
+        "precio_unitario": 145000
+      },
+      {
+        "producto_id": "P009",
+        "cantidad": 1,
+        "precio_unitario": 22000
+      }
+    ],
+    "total": 167000
+  },
+  {
+    "_id": "PED029",
+    "cliente_id": "C001",
+    "fecha": {
+      "$date": "2026-08-12T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P020",
+        "cantidad": 3,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P017",
+        "cantidad": 1,
+        "precio_unitario": 65000
+      },
+      {
+        "producto_id": "P004",
+        "cantidad": 2,
+        "precio_unitario": 48000
+      },
+      {
+        "producto_id": "P013",
+        "cantidad": 1,
+        "precio_unitario": 35000
+      }
+    ],
+    "total": 490000
+  },
+  {
+    "_id": "PED030",
+    "cliente_id": "C024",
+    "fecha": {
+      "$date": "2026-03-05T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P014",
+        "cantidad": 2,
+        "precio_unitario": 19000
+      },
+      {
+        "producto_id": "P003",
+        "cantidad": 3,
+        "precio_unitario": 54000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      }
+    ],
+    "total": 420000
+  },
+  {
+    "_id": "PED031",
+    "cliente_id": "C022",
+    "fecha": {
+      "$date": "2026-07-14T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P011",
+        "cantidad": 3,
+        "precio_unitario": 14000
+      },
+      {
+        "producto_id": "P013",
+        "cantidad": 1,
+        "precio_unitario": 35000
+      },
+      {
+        "producto_id": "P023",
+        "cantidad": 1,
+        "precio_unitario": 31000
+      },
+      {
+        "producto_id": "P010",
+        "cantidad": 2,
+        "precio_unitario": 9000
+      }
+    ],
+    "total": 126000
+  },
+  {
+    "_id": "PED032",
+    "cliente_id": "C014",
+    "fecha": {
+      "$date": "2026-04-18T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P013",
+        "cantidad": 1,
+        "precio_unitario": 35000
+      },
+      {
+        "producto_id": "P018",
+        "cantidad": 2,
+        "precio_unitario": 89000
+      },
+      {
+        "producto_id": "P027",
+        "cantidad": 2,
+        "precio_unitario": 52000
+      }
+    ],
+    "total": 317000
+  },
+  {
+    "_id": "PED033",
+    "cliente_id": "C010",
+    "fecha": {
+      "$date": "2026-02-13T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P015",
+        "cantidad": 2,
+        "precio_unitario": 26000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 3,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P007",
+        "cantidad": 1,
+        "precio_unitario": 18000
+      },
+      {
+        "producto_id": "P017",
+        "cantidad": 3,
+        "precio_unitario": 65000
+      }
+    ],
+    "total": 595000
+  },
+  {
+    "_id": "PED034",
+    "cliente_id": "C008",
+    "fecha": {
+      "$date": "2026-06-08T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P027",
+        "cantidad": 1,
+        "precio_unitario": 52000
+      }
+    ],
+    "total": 52000
+  },
+  {
+    "_id": "PED035",
+    "cliente_id": "C020",
+    "fecha": {
+      "$date": "2026-09-01T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P002",
+        "cantidad": 1,
+        "precio_unitario": 72000
+      }
+    ],
+    "total": 72000
+  },
+  {
+    "_id": "PED036",
+    "cliente_id": "C008",
+    "fecha": {
+      "$date": "2026-07-24T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P029",
+        "cantidad": 3,
+        "precio_unitario": 39000
+      },
+      {
+        "producto_id": "P021",
+        "cantidad": 3,
+        "precio_unitario": 24000
+      },
+      {
+        "producto_id": "P019",
+        "cantidad": 2,
+        "precio_unitario": 145000
+      },
+      {
+        "producto_id": "P007",
+        "cantidad": 2,
+        "precio_unitario": 18000
+      }
+    ],
+    "total": 515000
+  },
+  {
+    "_id": "PED037",
+    "cliente_id": "C006",
+    "fecha": {
+      "$date": "2026-04-23T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P025",
+        "cantidad": 2,
+        "precio_unitario": 42000
+      }
+    ],
+    "total": 84000
+  },
+  {
+    "_id": "PED038",
+    "cliente_id": "C015",
+    "fecha": {
+      "$date": "2026-03-04T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P018",
+        "cantidad": 1,
+        "precio_unitario": 89000
+      }
+    ],
+    "total": 89000
+  },
+  {
+    "_id": "PED039",
+    "cliente_id": "C027",
+    "fecha": {
+      "$date": "2026-08-07T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P025",
+        "cantidad": 3,
+        "precio_unitario": 42000
+      },
+      {
+        "producto_id": "P029",
+        "cantidad": 3,
+        "precio_unitario": 39000
+      },
+      {
+        "producto_id": "P015",
+        "cantidad": 3,
+        "precio_unitario": 26000
+      }
+    ],
+    "total": 321000
+  },
+  {
+    "_id": "PED040",
+    "cliente_id": "C025",
+    "fecha": {
+      "$date": "2026-05-13T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P024",
+        "cantidad": 2,
+        "precio_unitario": 58000
+      },
+      {
+        "producto_id": "P028",
+        "cantidad": 2,
+        "precio_unitario": 46000
+      }
+    ],
+    "total": 208000
+  },
+  {
+    "_id": "PED041",
+    "cliente_id": "C011",
+    "fecha": {
+      "$date": "2026-05-20T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P021",
+        "cantidad": 1,
+        "precio_unitario": 24000
+      },
+      {
+        "producto_id": "P008",
+        "cantidad": 3,
+        "precio_unitario": 15000
+      },
+      {
+        "producto_id": "P009",
+        "cantidad": 2,
+        "precio_unitario": 22000
+      },
+      {
+        "producto_id": "P015",
+        "cantidad": 1,
+        "precio_unitario": 26000
+      }
+    ],
+    "total": 139000
+  },
+  {
+    "_id": "PED042",
+    "cliente_id": "C023",
+    "fecha": {
+      "$date": "2026-03-20T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P005",
+        "cantidad": 2,
+        "precio_unitario": 32000
+      },
+      {
+        "producto_id": "P008",
+        "cantidad": 3,
+        "precio_unitario": 15000
+      }
+    ],
+    "total": 109000
+  },
+  {
+    "_id": "PED043",
+    "cliente_id": "C029",
+    "fecha": {
+      "$date": "2026-07-19T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P014",
+        "cantidad": 2,
+        "precio_unitario": 19000
+      },
+      {
+        "producto_id": "P011",
+        "cantidad": 1,
+        "precio_unitario": 14000
+      },
+      {
+        "producto_id": "P018",
+        "cantidad": 1,
+        "precio_unitario": 89000
+      },
+      {
+        "producto_id": "P015",
+        "cantidad": 2,
+        "precio_unitario": 26000
+      }
+    ],
+    "total": 193000
+  },
+  {
+    "_id": "PED044",
+    "cliente_id": "C026",
+    "fecha": {
+      "$date": "2026-10-07T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P016",
+        "cantidad": 2,
+        "precio_unitario": 28000
+      },
+      {
+        "producto_id": "P001",
+        "cantidad": 2,
+        "precio_unitario": 85000
+      },
+      {
+        "producto_id": "P012",
+        "cantidad": 3,
+        "precio_unitario": 120000
+      },
+      {
+        "producto_id": "P010",
+        "cantidad": 3,
+        "precio_unitario": 9000
+      }
+    ],
+    "total": 613000
+  },
+  {
+    "_id": "PED045",
+    "cliente_id": "C024",
+    "fecha": {
+      "$date": "2026-07-27T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P008",
+        "cantidad": 1,
+        "precio_unitario": 15000
+      },
+      {
+        "producto_id": "P009",
+        "cantidad": 2,
+        "precio_unitario": 22000
+      },
+      {
+        "producto_id": "P014",
+        "cantidad": 2,
+        "precio_unitario": 19000
+      },
+      {
+        "producto_id": "P016",
+        "cantidad": 3,
+        "precio_unitario": 28000
+      }
+    ],
+    "total": 181000
+  },
+  {
+    "_id": "PED046",
+    "cliente_id": "C019",
+    "fecha": {
+      "$date": "2026-10-31T00:00:00Z"
+    },
+    "estado": "cancelado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P020",
+        "cantidad": 1,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P018",
+        "cantidad": 2,
+        "precio_unitario": 89000
+      }
+    ],
+    "total": 276000
+  },
+  {
+    "_id": "PED047",
+    "cliente_id": "C028",
+    "fecha": {
+      "$date": "2026-03-11T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P021",
+        "cantidad": 2,
+        "precio_unitario": 24000
+      }
+    ],
+    "total": 48000
+  },
+  {
+    "_id": "PED048",
+    "cliente_id": "C007",
+    "fecha": {
+      "$date": "2026-06-17T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P009",
+        "cantidad": 2,
+        "precio_unitario": 22000
+      }
+    ],
+    "total": 44000
+  },
+  {
+    "_id": "PED049",
+    "cliente_id": "C016",
+    "fecha": {
+      "$date": "2026-02-11T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P025",
+        "cantidad": 2,
+        "precio_unitario": 42000
+      },
+      {
+        "producto_id": "P029",
+        "cantidad": 2,
+        "precio_unitario": 39000
+      },
+      {
+        "producto_id": "P013",
+        "cantidad": 2,
+        "precio_unitario": 35000
+      }
+    ],
+    "total": 232000
+  },
+  {
+    "_id": "PED050",
+    "cliente_id": "C007",
+    "fecha": {
+      "$date": "2026-05-07T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P008",
+        "cantidad": 3,
+        "precio_unitario": 15000
+      },
+      {
+        "producto_id": "P021",
+        "cantidad": 1,
+        "precio_unitario": 24000
+      },
+      {
+        "producto_id": "P003",
+        "cantidad": 1,
+        "precio_unitario": 54000
+      }
+    ],
+    "total": 123000
+  },
+  {
+    "_id": "PED051",
+    "cliente_id": "C007",
+    "fecha": {
+      "$date": "2026-10-16T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P005",
+        "cantidad": 3,
+        "precio_unitario": 32000
+      },
+      {
+        "producto_id": "P016",
+        "cantidad": 1,
+        "precio_unitario": 28000
+      }
+    ],
+    "total": 124000
+  },
+  {
+    "_id": "PED052",
+    "cliente_id": "C004",
+    "fecha": {
+      "$date": "2026-06-09T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P006",
+        "cantidad": 3,
+        "precio_unitario": 38000
+      },
+      {
+        "producto_id": "P020",
+        "cantidad": 1,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 1,
+        "precio_unitario": 58000
+      }
+    ],
+    "total": 270000
+  },
+  {
+    "_id": "PED053",
+    "cliente_id": "C003",
+    "fecha": {
+      "$date": "2026-04-12T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P019",
+        "cantidad": 2,
+        "precio_unitario": 145000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P030",
+        "cantidad": 3,
+        "precio_unitario": 95000
+      }
+    ],
+    "total": 795000
+  },
+  {
+    "_id": "PED054",
+    "cliente_id": "C026",
+    "fecha": {
+      "$date": "2026-11-04T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "tarjeta",
+    "items": [
+      {
+        "producto_id": "P023",
+        "cantidad": 2,
+        "precio_unitario": 31000
+      }
+    ],
+    "total": 62000
+  },
+  {
+    "_id": "PED055",
+    "cliente_id": "C001",
+    "fecha": {
+      "$date": "2026-06-24T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P018",
+        "cantidad": 2,
+        "precio_unitario": 89000
+      },
+      {
+        "producto_id": "P014",
+        "cantidad": 1,
+        "precio_unitario": 19000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 3,
+        "precio_unitario": 110000
+      }
+    ],
+    "total": 527000
+  },
+  {
+    "_id": "PED056",
+    "cliente_id": "C023",
+    "fecha": {
+      "$date": "2026-08-24T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P014",
+        "cantidad": 2,
+        "precio_unitario": 19000
+      }
+    ],
+    "total": 38000
+  },
+  {
+    "_id": "PED057",
+    "cliente_id": "C026",
+    "fecha": {
+      "$date": "2026-11-12T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "nequi",
+    "items": [
+      {
+        "producto_id": "P024",
+        "cantidad": 3,
+        "precio_unitario": 58000
+      },
+      {
+        "producto_id": "P017",
+        "cantidad": 2,
+        "precio_unitario": 65000
+      }
+    ],
+    "total": 304000
+  },
+  {
+    "_id": "PED058",
+    "cliente_id": "C029",
+    "fecha": {
+      "$date": "2026-05-23T00:00:00Z"
+    },
+    "estado": "enviado",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P014",
+        "cantidad": 2,
+        "precio_unitario": 19000
+      },
+      {
+        "producto_id": "P027",
+        "cantidad": 2,
+        "precio_unitario": 52000
+      },
+      {
+        "producto_id": "P024",
+        "cantidad": 1,
+        "precio_unitario": 58000
+      },
+      {
+        "producto_id": "P019",
+        "cantidad": 1,
+        "precio_unitario": 145000
+      }
+    ],
+    "total": 345000
+  },
+  {
+    "_id": "PED059",
+    "cliente_id": "C016",
+    "fecha": {
+      "$date": "2026-04-04T00:00:00Z"
+    },
+    "estado": "entregado",
+    "metodo_pago": "transferencia",
+    "items": [
+      {
+        "producto_id": "P019",
+        "cantidad": 2,
+        "precio_unitario": 145000
+      },
+      {
+        "producto_id": "P020",
+        "cantidad": 1,
+        "precio_unitario": 98000
+      },
+      {
+        "producto_id": "P022",
+        "cantidad": 2,
+        "precio_unitario": 110000
+      },
+      {
+        "producto_id": "P013",
+        "cantidad": 2,
+        "precio_unitario": 35000
+      }
+    ],
+    "total": 678000
+  },
+  {
+    "_id": "PED060",
+    "cliente_id": "C001",
+    "fecha": {
+      "$date": "2026-10-12T00:00:00Z"
+    },
+    "estado": "pendiente",
+    "metodo_pago": "efectivo",
+    "items": [
+      {
+        "producto_id": "P011",
+        "cantidad": 3,
+        "precio_unitario": 14000
+      },
+      {
+        "producto_id": "P009",
+        "cantidad": 3,
+        "precio_unitario": 22000
+      },
+      {
+        "producto_id": "P029",
+        "cantidad": 2,
+        "precio_unitario": 39000
+      }
+    ],
+    "total": 186000
+  }
+]
