@@ -1,0 +1,512 @@
+[
+  {
+    "_id": "C001",
+    "nombre": "Laura Gómez",
+    "correo": "laura.gomez@correo.com",
+    "ciudad": "Cali",
+    "fecha_registro": {
+      "$date": "2025-10-12T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Mía",
+        "tipo": "pez"
+      }
+    ]
+  },
+  {
+    "_id": "C002",
+    "nombre": "Carlos Ramírez",
+    "correo": "carlos.ramirez@correo.com",
+    "ciudad": "Pereira",
+    "fecha_registro": {
+      "$date": "2025-04-15T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Simba",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C003",
+    "nombre": "Ana Torres",
+    "correo": "ana.torres@correo.com",
+    "ciudad": "Barranquilla",
+    "fecha_registro": {
+      "$date": "2025-12-19T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Rocky",
+        "tipo": "gato"
+      },
+      {
+        "nombre": "Bruno",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C004",
+    "nombre": "Juan Pérez",
+    "correo": "juan.perez@correo.com",
+    "ciudad": "Cartagena",
+    "fecha_registro": {
+      "$date": "2025-03-22T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Thor",
+        "tipo": "gato"
+      },
+      {
+        "nombre": "Nala",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C005",
+    "nombre": "María Rojas",
+    "correo": "maria.rojas@correo.com",
+    "ciudad": "Cali",
+    "fecha_registro": {
+      "$date": "2025-03-13T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Thor",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C006",
+    "nombre": "Andrés Cardona",
+    "correo": "andres.cardona@correo.com",
+    "ciudad": "Barranquilla",
+    "fecha_registro": {
+      "$date": "2025-03-23T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Luna",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C007",
+    "nombre": "Sofía Herrera",
+    "correo": "sofia.herrera@correo.com",
+    "ciudad": "Cartagena",
+    "fecha_registro": {
+      "$date": "2026-10-13T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Max",
+        "tipo": "perro"
+      },
+      {
+        "nombre": "Mía",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C008",
+    "nombre": "Daniel Ospina",
+    "correo": "daniel.ospina@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": {
+      "$date": "2025-03-15T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Bruno",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C009",
+    "nombre": "Valentina Ruiz",
+    "correo": "valentina.ruiz@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": {
+      "$date": "2026-04-19T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Toby",
+        "tipo": "pez"
+      },
+      {
+        "nombre": "Thor",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C010",
+    "nombre": "Camilo Restrepo",
+    "correo": "camilo.restrepo@correo.com",
+    "ciudad": "Pereira",
+    "fecha_registro": {
+      "$date": "2025-11-29T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Mía",
+        "tipo": "hámster"
+      }
+    ]
+  },
+  {
+    "_id": "C011",
+    "nombre": "Paula Mejía",
+    "correo": "paula.mejia@correo.com",
+    "ciudad": "Cali",
+    "fecha_registro": {
+      "$date": "2025-11-20T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Toby",
+        "tipo": "perro"
+      },
+      {
+        "nombre": "Lola",
+        "tipo": "hámster"
+      }
+    ]
+  },
+  {
+    "_id": "C012",
+    "nombre": "Felipe Zapata",
+    "correo": "felipe.zapata@correo.com",
+    "ciudad": "Cali",
+    "fecha_registro": {
+      "$date": "2025-08-06T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Simba",
+        "tipo": "hámster"
+      },
+      {
+        "nombre": "Thor",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C013",
+    "nombre": "Natalia Duque",
+    "correo": "natalia.duque@correo.com",
+    "ciudad": "Cali",
+    "fecha_registro": {
+      "$date": "2025-05-23T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Kira",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C014",
+    "nombre": "Sebastián Vélez",
+    "correo": "sebastian.velez@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": {
+      "$date": "2026-08-22T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Lola",
+        "tipo": "perro"
+      },
+      {
+        "nombre": "Mía",
+        "tipo": "pez"
+      }
+    ]
+  },
+  {
+    "_id": "C015",
+    "nombre": "Isabela Castaño",
+    "correo": "isabela.castaño@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": {
+      "$date": "2026-06-06T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Luna",
+        "tipo": "gato"
+      },
+      {
+        "nombre": "Luna",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C016",
+    "nombre": "Mateo Giraldo",
+    "correo": "mateo.giraldo@correo.com",
+    "ciudad": "Barranquilla",
+    "fecha_registro": {
+      "$date": "2026-03-09T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Simba",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C017",
+    "nombre": "Juliana Arango",
+    "correo": "juliana.arango@correo.com",
+    "ciudad": "Medellín",
+    "fecha_registro": {
+      "$date": "2026-06-26T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Bruno",
+        "tipo": "hámster"
+      },
+      {
+        "nombre": "Rocky",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C018",
+    "nombre": "Nicolás Montoya",
+    "correo": "nicolas.montoya@correo.com",
+    "ciudad": "Barranquilla",
+    "fecha_registro": {
+      "$date": "2026-07-04T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Thor",
+        "tipo": "perro"
+      },
+      {
+        "nombre": "Toby",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C019",
+    "nombre": "Camila Londoño",
+    "correo": "camila.londoño@correo.com",
+    "ciudad": "Pereira",
+    "fecha_registro": {
+      "$date": "2025-01-04T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Bruno",
+        "tipo": "gato"
+      },
+      {
+        "nombre": "Bruno",
+        "tipo": "pez"
+      }
+    ]
+  },
+  {
+    "_id": "C020",
+    "nombre": "Santiago Henao",
+    "correo": "santiago.henao@correo.com",
+    "ciudad": "Pereira",
+    "fecha_registro": {
+      "$date": "2026-10-03T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Thor",
+        "tipo": "gato"
+      },
+      {
+        "nombre": "Mía",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C021",
+    "nombre": "Daniela Salazar",
+    "correo": "daniela.salazar@correo.com",
+    "ciudad": "Medellín",
+    "fecha_registro": {
+      "$date": "2025-06-15T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Lola",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C022",
+    "nombre": "Julián Correa",
+    "correo": "julian.correa@correo.com",
+    "ciudad": "Medellín",
+    "fecha_registro": {
+      "$date": "2025-04-25T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Toby",
+        "tipo": "perro"
+      },
+      {
+        "nombre": "Mía",
+        "tipo": "hámster"
+      }
+    ]
+  },
+  {
+    "_id": "C023",
+    "nombre": "Mariana Pineda",
+    "correo": "mariana.pineda@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": {
+      "$date": "2025-03-29T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Luna",
+        "tipo": "pez"
+      },
+      {
+        "nombre": "Bruno",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C024",
+    "nombre": "Esteban Franco",
+    "correo": "esteban.franco@correo.com",
+    "ciudad": "Bucaramanga",
+    "fecha_registro": {
+      "$date": "2026-05-02T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Toby",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C025",
+    "nombre": "Carolina Builes",
+    "correo": "carolina.builes@correo.com",
+    "ciudad": "Cartagena",
+    "fecha_registro": {
+      "$date": "2026-03-10T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Bruno",
+        "tipo": "gato"
+      }
+    ]
+  },
+  {
+    "_id": "C026",
+    "nombre": "David Naranjo",
+    "correo": "david.naranjo@correo.com",
+    "ciudad": "Bucaramanga",
+    "fecha_registro": {
+      "$date": "2025-07-25T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Simba",
+        "tipo": "pez"
+      },
+      {
+        "nombre": "Thor",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C027",
+    "nombre": "Lucía Cano",
+    "correo": "lucia.cano@correo.com",
+    "ciudad": "Cali",
+    "fecha_registro": {
+      "$date": "2026-04-08T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Mía",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C028",
+    "nombre": "Tomás Agudelo",
+    "correo": "tomas.agudelo@correo.com",
+    "ciudad": "Medellín",
+    "fecha_registro": {
+      "$date": "2025-01-22T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Lola",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C029",
+    "nombre": "Manuela Bedoya",
+    "correo": "manuela.bedoya@correo.com",
+    "ciudad": "Medellín",
+    "fecha_registro": {
+      "$date": "2026-10-09T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Mía",
+        "tipo": "perro"
+      }
+    ]
+  },
+  {
+    "_id": "C030",
+    "nombre": "Alejandro Marín",
+    "correo": "alejandro.marin@correo.com",
+    "ciudad": "Cartagena",
+    "fecha_registro": {
+      "$date": "2025-12-05T00:00:00Z"
+    },
+    "mascotas": [
+      {
+        "nombre": "Bruno",
+        "tipo": "perro"
+      }
+    ]
+  }
+]
