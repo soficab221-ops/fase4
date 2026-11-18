@@ -1,0 +1,467 @@
+[
+  {
+    "_id": "P001",
+    "nombre": "Croquetas Premium Adulto",
+    "categoria": "Alimento",
+    "marca": "DogChow",
+    "precio": 85000,
+    "stock": 19,
+    "especificaciones": {
+      "peso_kg": 8,
+      "sabor": "pollo"
+    },
+    "etiquetas": [
+      "perros",
+      "adultos"
+    ]
+  },
+  {
+    "_id": "P002",
+    "nombre": "Croquetas Cachorro",
+    "categoria": "Alimento",
+    "marca": "Pedigree",
+    "precio": 72000,
+    "stock": 8,
+    "especificaciones": {
+      "peso_kg": 6,
+      "sabor": "carne"
+    },
+    "etiquetas": [
+      "perros",
+      "cachorros"
+    ]
+  },
+  {
+    "_id": "P003",
+    "nombre": "Alimento Gato Adulto",
+    "categoria": "Alimento",
+    "marca": "Whiskas",
+    "precio": 54000,
+    "stock": 40,
+    "especificaciones": {
+      "peso_kg": 3,
+      "sabor": "atún"
+    },
+    "etiquetas": [
+      "gatos",
+      "adultos"
+    ]
+  },
+  {
+    "_id": "P004",
+    "nombre": "Alimento Gatito",
+    "categoria": "Alimento",
+    "marca": "Cat Chow",
+    "precio": 48000,
+    "stock": 36,
+    "especificaciones": {
+      "peso_kg": 2,
+      "sabor": "pollo"
+    },
+    "etiquetas": [
+      "gatos",
+      "gatitos"
+    ]
+  },
+  {
+    "_id": "P005",
+    "nombre": "Snacks Dentales Perro",
+    "categoria": "Alimento",
+    "marca": "Greenies",
+    "precio": 32000,
+    "stock": 33,
+    "especificaciones": {
+      "peso_kg": 0.5,
+      "sabor": "menta"
+    },
+    "etiquetas": [
+      "perros",
+      "snacks"
+    ]
+  },
+  {
+    "_id": "P006",
+    "nombre": "Alimento Húmedo Gato x12",
+    "categoria": "Alimento",
+    "marca": "Felix",
+    "precio": 38000,
+    "stock": 22,
+    "especificaciones": {
+      "peso_kg": 1,
+      "sabor": "salmón"
+    },
+    "etiquetas": [
+      "gatos",
+      "húmedo"
+    ]
+  },
+  {
+    "_id": "P007",
+    "nombre": "Alimento Hámster",
+    "categoria": "Alimento",
+    "marca": "Vitakraft",
+    "precio": 18000,
+    "stock": 18,
+    "especificaciones": {
+      "peso_kg": 0.8,
+      "sabor": "semillas"
+    },
+    "etiquetas": [
+      "roedores"
+    ]
+  },
+  {
+    "_id": "P008",
+    "nombre": "Alimento Peces Tropicales",
+    "categoria": "Alimento",
+    "marca": "Tetra",
+    "precio": 15000,
+    "stock": 74,
+    "especificaciones": {
+      "peso_kg": 0.2,
+      "sabor": "hojuelas"
+    },
+    "etiquetas": [
+      "peces"
+    ]
+  },
+  {
+    "_id": "P009",
+    "nombre": "Pelota de Caucho",
+    "categoria": "Juguetes",
+    "marca": "Kong",
+    "precio": 22000,
+    "stock": 16,
+    "especificaciones": {
+      "material": "caucho",
+      "tamaño": "mediano"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P010",
+    "nombre": "Ratón con Catnip",
+    "categoria": "Juguetes",
+    "marca": "PetSafe",
+    "precio": 9000,
+    "stock": 80,
+    "especificaciones": {
+      "material": "felpa",
+      "tamaño": "pequeño"
+    },
+    "etiquetas": [
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P011",
+    "nombre": "Cuerda Mordedera",
+    "categoria": "Juguetes",
+    "marca": "Nylabone",
+    "precio": 14000,
+    "stock": 59,
+    "especificaciones": {
+      "material": "algodón",
+      "tamaño": "grande"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P012",
+    "nombre": "Rascador Torre",
+    "categoria": "Juguetes",
+    "marca": "CatIt",
+    "precio": 120000,
+    "stock": 9,
+    "especificaciones": {
+      "material": "sisal",
+      "tamaño": "grande"
+    },
+    "etiquetas": [
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P013",
+    "nombre": "Túnel Plegable Gato",
+    "categoria": "Juguetes",
+    "marca": "Trixie",
+    "precio": 35000,
+    "stock": 8,
+    "especificaciones": {
+      "material": "poliéster",
+      "tamaño": "mediano"
+    },
+    "etiquetas": [
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P014",
+    "nombre": "Frisbee Flexible",
+    "categoria": "Juguetes",
+    "marca": "Kong",
+    "precio": 19000,
+    "stock": 16,
+    "especificaciones": {
+      "material": "silicona",
+      "tamaño": "mediano"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P015",
+    "nombre": "Rueda para Hámster",
+    "categoria": "Juguetes",
+    "marca": "Savic",
+    "precio": 26000,
+    "stock": 32,
+    "especificaciones": {
+      "material": "plástico",
+      "tamaño": "pequeño"
+    },
+    "etiquetas": [
+      "roedores"
+    ]
+  },
+  {
+    "_id": "P016",
+    "nombre": "Collar Ajustable",
+    "categoria": "Accesorios",
+    "marca": "PetSafe",
+    "precio": 28000,
+    "stock": 34,
+    "especificaciones": {
+      "color": "rojo",
+      "talla": "M"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P017",
+    "nombre": "Correa Retráctil 5m",
+    "categoria": "Accesorios",
+    "marca": "Flexi",
+    "precio": 65000,
+    "stock": 69,
+    "especificaciones": {
+      "color": "negro",
+      "talla": "L"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P018",
+    "nombre": "Arnés Acolchado",
+    "categoria": "Accesorios",
+    "marca": "Ruffwear",
+    "precio": 89000,
+    "stock": 8,
+    "especificaciones": {
+      "color": "azul",
+      "talla": "M"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P019",
+    "nombre": "Cama Ortopédica",
+    "categoria": "Accesorios",
+    "marca": "Kuranda",
+    "precio": 145000,
+    "stock": 76,
+    "especificaciones": {
+      "color": "gris",
+      "talla": "L"
+    },
+    "etiquetas": [
+      "perros",
+      "descanso"
+    ]
+  },
+  {
+    "_id": "P020",
+    "nombre": "Transportadora Gato",
+    "categoria": "Accesorios",
+    "marca": "Petmate",
+    "precio": 98000,
+    "stock": 30,
+    "especificaciones": {
+      "color": "verde",
+      "talla": "M"
+    },
+    "etiquetas": [
+      "gatos",
+      "viaje"
+    ]
+  },
+  {
+    "_id": "P021",
+    "nombre": "Comedero Doble Acero",
+    "categoria": "Accesorios",
+    "marca": "Dogit",
+    "precio": 24000,
+    "stock": 74,
+    "especificaciones": {
+      "color": "plata",
+      "talla": "S"
+    },
+    "etiquetas": [
+      "perros",
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P022",
+    "nombre": "Fuente de Agua",
+    "categoria": "Accesorios",
+    "marca": "Catit",
+    "precio": 110000,
+    "stock": 58,
+    "especificaciones": {
+      "color": "blanco",
+      "talla": "única"
+    },
+    "etiquetas": [
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P023",
+    "nombre": "Shampoo Hipoalergénico",
+    "categoria": "Higiene",
+    "marca": "Furminator",
+    "precio": 31000,
+    "stock": 33,
+    "especificaciones": {
+      "volumen_ml": 500,
+      "aroma": "avena"
+    },
+    "etiquetas": [
+      "perros",
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P024",
+    "nombre": "Cepillo Deslanador",
+    "categoria": "Higiene",
+    "marca": "Furminator",
+    "precio": 58000,
+    "stock": 62,
+    "especificaciones": {
+      "volumen_ml": 0,
+      "aroma": "ninguno"
+    },
+    "etiquetas": [
+      "perros"
+    ]
+  },
+  {
+    "_id": "P025",
+    "nombre": "Arena Sanitaria 10kg",
+    "categoria": "Higiene",
+    "marca": "Fresh Step",
+    "precio": 42000,
+    "stock": 80,
+    "especificaciones": {
+      "volumen_ml": 0,
+      "aroma": "lavanda"
+    },
+    "etiquetas": [
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P026",
+    "nombre": "Cortauñas Profesional",
+    "categoria": "Higiene",
+    "marca": "Safari",
+    "precio": 27000,
+    "stock": 40,
+    "especificaciones": {
+      "volumen_ml": 0,
+      "aroma": "ninguno"
+    },
+    "etiquetas": [
+      "perros",
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P027",
+    "nombre": "Antipulgas Pipeta",
+    "categoria": "Salud",
+    "marca": "Frontline",
+    "precio": 52000,
+    "stock": 5,
+    "especificaciones": {
+      "dosis": "pipeta 3 uds",
+      "vía": "tópica"
+    },
+    "etiquetas": [
+      "perros",
+      "antiparasitario"
+    ]
+  },
+  {
+    "_id": "P028",
+    "nombre": "Vitaminas Multivit",
+    "categoria": "Salud",
+    "marca": "Nutri-Vet",
+    "precio": 46000,
+    "stock": 25,
+    "especificaciones": {
+      "dosis": "60 tabletas",
+      "vía": "oral"
+    },
+    "etiquetas": [
+      "perros",
+      "gatos"
+    ]
+  },
+  {
+    "_id": "P029",
+    "nombre": "Desparasitante Oral",
+    "categoria": "Salud",
+    "marca": "Drontal",
+    "precio": 39000,
+    "stock": 59,
+    "especificaciones": {
+      "dosis": "2 tabletas",
+      "vía": "oral"
+    },
+    "etiquetas": [
+      "gatos",
+      "antiparasitario"
+    ]
+  },
+  {
+    "_id": "P030",
+    "nombre": "Collar Antipulgas",
+    "categoria": "Salud",
+    "marca": "Seresto",
+    "precio": 95000,
+    "stock": 48,
+    "especificaciones": {
+      "dosis": "8 meses",
+      "vía": "tópica"
+    },
+    "etiquetas": [
+      "perros",
+      "gatos"
+    ]
+  }
+]
